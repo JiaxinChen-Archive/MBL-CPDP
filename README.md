@@ -2,7 +2,7 @@
 
 > This repository contains materials related to our paper.
 
-![MBL-CPDP](MBL-CPDP.pdf)
+![MBL-CPDP](MBL-CPDP.png)
 *Multi-objective Bilevel Cross-Project Defect Prediction Problem*
 
 ## Requirements
