@@ -2,11 +2,11 @@
 
 > This repository contains materials related to our paper.
 
-## 
+## Requirements
+
+- Python 3.6
 
 
-## Contact
+## Acknowledgment
 
-If you meet any problems, please feel free to contact me.
-
-- Jiaxin Chen (chenjiaxin1934@gmail.com)
+- Dataset and Processing: ([https://github.com/HanxunH/Unlearnable-Examples](https://github.com/COLA-Laboratory/ase2020))
