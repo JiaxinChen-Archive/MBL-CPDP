@@ -31,7 +31,7 @@
   
   - `pip install lockfile`
   
-  - `pip install smac==0.8.0 ``
+  - `pip install smac==0.8.0 `
   
     > If you get some error during smac installation, please using "sudo apt-get install build-essential swig" in terminal.
 
