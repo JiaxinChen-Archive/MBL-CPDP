@@ -31,20 +31,8 @@
     > If you get some error during smac installation, please using "sudo apt-get install build-essential swig" in terminal.
 
 ## Quick start 
-
-1. To reproduce the result of `BiLO-CPDP`, make sure you are in `code/Bilevel`, then
-
+1. Main function:
    ```python
-   # lower-level budget = 100 function evaluations
-   python FE100.py 
-   # lower-level budget = 20s
    python Time20.py
    ```
-
-2. To reproduce the result of `Auto-Sklearn (modified)`, make sure you are in `code/Auto_CPDP`
-
-   ```python
-   python exam.py
-   ```
-
-3. You can check the results with our experimental results in `result` directory . 
+2. The experimental results can be found in the resBL directory. 
