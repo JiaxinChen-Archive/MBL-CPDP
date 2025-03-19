@@ -9,4 +9,4 @@
 
 ## Acknowledgment
 
-- Dataset and Processing: ([[(https://github.com/COLA-Laboratory/ase2020)](https://github.com/COLA-Laboratory/ase2020))
+- Dataset and Processing: ([(https://github.com/COLA-Laboratory/ase2020)](https://github.com/COLA-Laboratory/ase2020))
