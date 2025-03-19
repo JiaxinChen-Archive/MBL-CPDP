@@ -1,0 +1,12 @@
+hyperopt
+scikit-learn==0.20.4
+iteration_utilities
+imbalanced-learn==0.4
+func_timeout
+minepy
+info_gain
+powerlaw
+cvxopt
+pyyaml
+lockfile
+smac==0.8.0
