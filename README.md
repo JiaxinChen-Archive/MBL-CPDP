@@ -44,7 +44,11 @@
    ```
 2. The experimental results can be found in the resBL directory. 
 
+## Contact
 
+If you meet any problems, please feel free to contact me.
+
+- Jiaxin Chen (chenjiaxin1934@gmail.com)
 
 ## Acknowledgment
 
