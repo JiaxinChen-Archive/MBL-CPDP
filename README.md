@@ -32,6 +32,8 @@
   - `pip install pyyaml`
   
   - `pip install lockfile`
+ 
+  - `pip install mlxtend`
   
   - `pip install smac==0.8.0 `
   
